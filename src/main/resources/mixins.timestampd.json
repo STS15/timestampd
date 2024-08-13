@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "package": "com.sts15.timestampd.mixins",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "MixinChatComponent"
+  ],
+  "minVersion": "0.8",
+  "refmap": "mixins.timestampd.refmap.json"
+}
